@@ -1,0 +1,16 @@
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.exe
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.deps.json
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.runtimeconfig.json
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.runtimeconfig.dev.json
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.dll
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\ref\sample1.dll
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\bin\Debug\net5.0\sample1.pdb
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.csprojAssemblyReference.cache
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.AssemblyInfoInputs.cache
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.AssemblyInfo.cs
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.csproj.CoreCompileInputs.cache
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.dll
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\ref\sample1.dll
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.pdb
+D:\Proyecto\Proyecto_Web\NET_CORE\sample1\obj\Debug\net5.0\sample1.genruntimeconfig.cache
